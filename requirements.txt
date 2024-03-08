@@ -1,0 +1,8 @@
+transformers
+langchain
+sentence-transformers
+faiss-cpu
+gradio
+pandas
+torch
+nltk

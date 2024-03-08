@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "chatbot data"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+packages = [{include = "model"}]
+
+
+[tool.poetry.dependencies]
+python = "^3.9"
+transformers = "^4.38.1"
+langchain = "^0.1.9"
+sentence-transformers = "^2.4.0"
+faiss-cpu = "^1.7.4"
+gradio = "^4.19.2"
+pandas = "^2.2.1"
+torch = "^2.2.1"
+nltk = "^3.8.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
