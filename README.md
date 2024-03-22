@@ -70,7 +70,7 @@ With an LLM-based AI project, we can create a chatbot to ask questions about das
 - It can speed up work because it reduces the time to search for the dashboard you want to search for.
 
 ## LLM Model
-The project using [idT5](https://huggingface.co/muchad/idt5-base) (Indonesian version of [mT5](https://github.com/Wikidepia/indonesian_datasets/tree/master/question-answering/squad))is fine-tuned on 30% of [translated SQuAD v2.0](https://github.com/Wikidepia/indonesian_datasets/tree/master/question-answering/squad) for Question Generation and Question Answering tasks.
+The project using [idT5](https://huggingface.co/muchad/idt5-base) (Indonesian version of [mT5](https://github.com/Wikidepia/indonesian_datasets/tree/master/question-answering/squad)) is fine-tuned on 30% of [translated SQuAD v2.0](https://github.com/Wikidepia/indonesian_datasets/tree/master/question-answering/squad) for Question Generation and Question Answering tasks.
 
 mT5-Base has 580 million parameters. Developed by Google, mT5, a variant of the Text-to-Text Transfer Transformer (T5), is designed to understand and generate text across an impressive range of 101 languages. This capability is crucial in a world where digital communication transcends linguistic boundaries. mT5’s extensive language coverage enables it to perform a variety of NLP tasks, from translation to content creation, making it a powerful tool in both research and practical applications. Its versatility and robustness have set a new benchmark in multilingual NLP, marking it as a key player in bridging language gaps in the digital age.
 
