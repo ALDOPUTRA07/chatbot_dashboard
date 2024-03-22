@@ -42,11 +42,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is an AI project based on LLM in the form of a chatbot. This chatbot can answer questions related to the company's dashboard. This chatbot can answer related questions about dashboards, such as
+The project is an AI chatbot based on LLM. The AI chatbot can answer questions related to the company's dashboard. The chatbot answers related questions about dashboards, such as.
 - What metrics does this dashboard contain?
 - What is the link to the dashboard?
 - Which dashboard do specific metrics exist on?
-
 
 
 ### Built With
@@ -101,11 +100,11 @@ This is a tutorial for running a project locally.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ALDOPUTRA07/prediction_delivery_time
+   https://github.com/ALDOPUTRA07/chatbot_dashboard.git
    ```
 2. Change to the project directory
    ```sh
-   cd prediction_delivery_time
+   cd chatbot_dashboard
    ```
 3. Setting up programming environment to run the project
    ```sh
