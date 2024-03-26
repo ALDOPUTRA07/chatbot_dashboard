@@ -48,6 +48,10 @@ The project is an AI chatbot based on LLM. The AI chatbot can answer questions r
 - Which dashboard do specific metrics exist on?
 
 
+https://github.com/ALDOPUTRA07/chatbot_dashboard/assets/123882693/41eb35e9-1560-4697-b02b-2983bb192ab6
+
+
+
 ### Built With
 
 These are list any major frameworks/libraries used to make the project.
